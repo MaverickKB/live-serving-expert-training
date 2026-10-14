@@ -99,3 +99,8 @@ in depth with diagrams and a two-process demo in the companion repository
 ## Files
 
 See `AGENTS.md` for a map of the code, the invariants and how to adapt it.
+
+## Why, how and origin
+
+- [docs/WHY_HOW.md](docs/WHY_HOW.md): why this exists and how it works.
+- [docs/ORIGIN_STORY.md](docs/ORIGIN_STORY.md): how we got here (links to the master story and lessons in moe-live-learning-tools).
