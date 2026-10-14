@@ -94,7 +94,7 @@ A `STOP` file in the job root aborts a running job at its next boundary.
 
 The live-serving coordination (paired start, resume marker, doorbell skip, hot-load) is covered
 in depth with diagrams and a two-process demo in the companion repository
-`tensor-parallel-side-jobs` (URL to be filled in at publish time).
+[tensor-parallel-side-jobs](https://github.com/MaverickKB/tensor-parallel-side-jobs).
 
 ## Files
 
