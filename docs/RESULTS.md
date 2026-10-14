@@ -11,8 +11,8 @@ engine. Added block at layer 35. One private fact set.
 | Baseline (no added block) | 0 | 0 | n/a | |
 | Best expert | **16** | **11** | 2 | controls unchanged (14/14) |
 | Longer contrast training | 14 | 8 | 2 | worse |
-| Gain scaled to 0.7 | n/a | 10 | 2 | leaks unchanged |
-| Gain scaled to 0.5 | n/a | 7 | 2 | leaks unchanged |
+| Gain scaled to 0.7 | 16 | 10 | 2 | leaks unchanged |
+| Gain scaled to 0.5 | 15 | 7 | 2 | leaks unchanged |
 
 The frozen-weight fingerprint never changed across jobs. Chats were served between microbatches.
 Contrast training with "unknown" and cross-pocket examples (140 and 160 examples) also left the
